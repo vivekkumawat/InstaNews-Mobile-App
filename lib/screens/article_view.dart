@@ -20,7 +20,7 @@ class _ArticleViewState extends State<ArticleView> {
         title: Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text("Insta", style: TextStyle(color: Colors.orangeAccent)),
+            Text("Insta", style: TextStyle(color: Colors.redAccent)),
             Text("News")
           ],
         ),
